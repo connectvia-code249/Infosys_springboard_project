@@ -1,3 +1,6 @@
 streamlit
-groq
 python-dotenv
+langgraph
+langchain
+langchain-groq
+groq
