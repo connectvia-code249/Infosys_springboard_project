@@ -1,0 +1,35 @@
+{
+    "Sh": {
+        "password": "ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad",
+        "total_points": 10,
+        "finished_topics": [
+            "Neural Networks"
+        ],
+        "topic_points": {
+            "Neural Networks": 10
+        },
+        "recent_topics": [
+            "Neural Networks",
+            "Computer Vision",
+            "Artificial Intelligence",
+            "Deep Learning",
+            "Machine Learning"
+        ]
+    },
+    "S": {
+        "password": "ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad",
+        "total_points": 6,
+        "finished_topics": [
+            "Neural Networks"
+        ],
+        "topic_points": {
+            "Neural Networks": 6
+        },
+        "recent_topics": [
+            "Deep Learning",
+            "Artificial Intelligence",
+            "Neural Networks",
+            "Computer Vision"
+        ]
+    }
+}
